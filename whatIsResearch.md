@@ -55,6 +55,24 @@ A follow up question presented to me by one of my students is: how important is 
 
 I agree that creativity is important. A respected researcher does not just create one hammer in graduate school and then spend the rest of their career seeking nails (or worse yet, treating everything as a nail). However, expecting creativity early on seems daunting. Sure we have to solve a series of problems to get a PhD, but choosing a problem comes first and at a stage where we are least knowledgeable. To me it seems standard to have a faculty member suggest a first research project, or at least suggest some papers to read or a general topic to dig into. But how do we make the jump between being handed a problem and identifying a problem ourselves?
 
-This is a problem I am still currently facing, so I hit the library where I came across Peter Borwein, Peter Liljedahl, and Helen Zhai's book "Mathematicians on Creativity". In this book the authors adapt [Jacques Hadamard's classic survey](https://www.amazon.com/Psychology-Invention-Mathematical-Field/dp/0486201074) of exceptional mathematicians and solicit responses from contemporary ``greats" in mathematics. This survey is meant to understand the role of invention and the creative process in mathematics. Honestly, I am a bit deterred by the fact that only prominent mathematicians were asked to answer this survey, but I guess we can still learn from the greats.
+This is a problem I am still currently facing, so I hit the library where I came across Peter Borwein, Peter Liljedahl, and Helen Zhai's book "Mathematicians on Creativity". In this book the authors adapt [Jacques Hadamard's classic survey](https://www.amazon.com/Psychology-Invention-Mathematical-Field/dp/0486201074) of exceptional mathematicians and solicit responses from contemporary "greats" in mathematics. This survey is meant to understand the role of invention and the creative process in mathematics. Honestly, I am a bit deterred by the fact that only prominent mathematicians were asked to answer this survey, but I guess we can still learn from the greats in a field close to our own.
+
+I will end with some quotes that resonated with me. Full disclosure: I definitely cherry-picked the quotes that I agree with in that they follow some themes:
+
+- Success comes from perserverence and a little luck.
+- Intuition can be built through experience.
+- Creativity, ultimately comes with mastery. You have to have a breadth of knowledge with enough depth to see how things fit together.
+
+To be sure, there are plenty of people who think you either have "it" or you don't, but I choose to have a growth mentality. 
+
+> "When reading, my first questions are: what are the tools used, do the definitions make sense, what are the data, what is only supposed to exist. What I try to remember is picture, possibly conflicting, with caveat, to know what is true, as well as what is provable —and which tools can be used to prove such and such." - Pierre Rene Deligne
+
+> "At first I'm terribly confused, but after awhile I chip away at my wrong ideas until I’m left with an answer. So I think I'm working in the sculptor mode, rather than the inspired painter." -Bradley Efron
+
+> "So learning is discovery with more signposts provided by someone who has been down this path before." - George Andrews
+
+> "Perhaps the key feature of the whole process is making connections. One has to recognize that two apparently disparate facts have something in common. Then comes the '99% perspiration' of nailing down exactly what is happening." - Richard Stanley
+
+> "It’s somewhat like hunting or fishing. Luck plays a significant part, but your odds are much better if you have some judgement and experience about the regions where you think the big game are likely to be." - Elwyn Berlekamp
 
 
